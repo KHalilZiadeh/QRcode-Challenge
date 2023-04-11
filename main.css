@@ -69,3 +69,10 @@ p {
     color: var(--Grayish-blue);
     margin-bottom: 25px;
 }
+
+.attribution {
+    position: absolute;
+    bottom: 1%;
+    left: 50%;
+    translate: -50%;
+}
